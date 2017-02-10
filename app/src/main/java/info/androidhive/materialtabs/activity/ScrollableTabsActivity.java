@@ -27,6 +27,7 @@ import info.androidhive.materialtabs.fragments.TwoFragment;
 public class ScrollableTabsActivity extends AppCompatActivity {
 
     private Toolbar toolbar;
+
     private TabLayout tabLayout;
     private ViewPager viewPager;
 
