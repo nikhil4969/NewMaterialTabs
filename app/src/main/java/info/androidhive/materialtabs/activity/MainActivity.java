@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnIconTabs.setOnClickListener(this);
         btnCustomIconTextTabs.setOnClickListener(this);
 
+        // this is the new file
+
     }
 
     @Override
